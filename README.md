@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Moulay Imad Idris
 
 ### 🎓 CS Student | Aspiring Flutter & Mobile Developer
 
@@ -28,12 +28,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Imad015&show_icons=true&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imad015&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Imad015&show_icons=true&hide_border=true&theme=dark" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imad015&hide_border=true&theme=dark" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imad015&layout=compact&hide_border=true" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imad015&layout=compact&hide_border=true&theme=dark" width="40%"/>
 </p>
 
 ---
