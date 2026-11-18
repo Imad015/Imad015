@@ -35,8 +35,8 @@ C  ──►  C++  ──►  C# (Backend)  ──►  Frontend  ──►  🎯
 - ✅ **C** — low-level programming & memory management
 - ✅ **Dart & Flutter** — cross-platform mobile development
 - ✅ **Python** — scripting & problem solving
-- 🔄 **C++** — OOP, data structures & advanced programming
-- ⏳ **C# & ASP.NET** — backend development
+- ✅ **C++** — OOP, data structures & advanced programming
+- 🔄 **C# & ASP.NET** — backend development
 - ⏳ **Frontend** (HTML / CSS / JS + framework) — UI & web development
 - 🎯 **Fullstack** — the final goal
 
