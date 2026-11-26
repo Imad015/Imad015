@@ -27,7 +27,7 @@
 
 ```
 C  ──►  C++  ──►  C# (Backend)  ──►  Frontend  ──►  🎯 Fullstack
-✅       🔄          ⏳                  ⏳               ⏳
+✅       ✅          ⏳                  ⏳               ⏳
 ```
 
 - ✅ **C** — low-level programming & memory management
